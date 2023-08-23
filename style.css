@@ -45,7 +45,8 @@ body {
 }
 
 .track-name {
-    font-size: 2.5rem;
+    font-size: 36px;
+    text-align: center;
 }
 
 .track-artist {
@@ -82,7 +83,7 @@ body {
     opacity: 1.0;
 }
 
-.fa-t{
+.fa-t {
     font-size: 150% !important;
 }
 
@@ -219,4 +220,21 @@ p {
 .stroke:nth-child(7) {
     animation-delay: 0s;
 }
-    
+
+
+.btn-vol {
+    border: #3774FF solid 1px;
+    padding: 4px 8px;
+    border-radius: 8px;
+}
+
+.btns-vol {
+    display: flex;
+    justify-content: center;
+    gap: 8px;
+}
+
+.btn-vol-active {
+    background: #3774FF;
+    color: #FFFAFA;
+}
