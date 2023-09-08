@@ -30,70 +30,58 @@ const music_list = [
     },
     {
         img: 'images/fallingdown.jpg',
-        name: 'Falling Down',
+        name: 'eli oana radu',
         artist: 'Wid Cards',
-        music: 'music/fallingdown.mp3'
+        music: 'music/eli oana radu feat dr mako tu radio edit.mp3'
     },
     {
         img: 'images/faded.png',
-        name: 'Faded',
-        artist: 'Alan Walker',
-        music: 'music/Faded.mp3'
+        name: 'Kris dzons young again',
+        artist: 'Hardwell',
+        music: 'music/hardwell feat kris dzons young again radio edit.mp3'
     },
     {
         img: 'images/ratherbe.jpg',
-        name: 'Rather Be',
-        artist: 'Clean Bandit',
-        music: 'music/Rather Be.mp3'
+        name: 'Nance higher stephan',
+        artist: 'jockeyboys',
+        music: 'music/jockeyboys-feat-nance-higher-stephan-f-remix.mp3'
     },
     {
         img: 'https://media.istockphoto.com/id/1175435360/vector/music-note-icon-vector-illustration.jpg?s=612x612&w=0&k=20&c=R7s6RR849L57bv_c7jMIFRW4H87-FjLB8sqZ08mN0OU=',
-        name: 'Hani Benim Gen',
-        artist: 'Ahmet Kaya',
-        music: 'music/Hani Benim Gen.mp3'
+        name: 'Tee dark horse.mp3',
+        artist: 'Keti perri',
+        music: 'music/keti-perri-feat-tee-dark-horse_J4XSEel5.mp3'
     },
     {
         img: 'https://media.istockphoto.com/id/1175435360/vector/music-note-icon-vector-illustration.jpg?s=612x612&w=0&k=20&c=R7s6RR849L57bv_c7jMIFRW4H87-FjLB8sqZ08mN0OU=',
-        name: 'Mos HayLife Hayastans',
-        artist: 'Edo',
-        music: 'music/Mos HayLife Hayastans.mp3'
+        name: 'Just like',
+        artist: 'Moxombi',
+        music: 'music/moxombi-just-like-that_OV6Pk1pP.mp3'
     },
     {
         img: 'https://media.istockphoto.com/id/1175435360/vector/music-note-icon-vector-illustration.jpg?s=612x612&w=0&k=20&c=R7s6RR849L57bv_c7jMIFRW4H87-FjLB8sqZ08mN0OU=',
-        name: 'Makeba Jain',
+        name: 'Bilionera',
+        artist: 'Otilia',
+        music: 'music/otilia-bilionera-radio-edit_R2HkQeFX.mp3'
+    },
+    {
+        img: 'https://media.istockphoto.com/id/1175435360/vector/music-note-icon-vector-illustration.jpg?s=612x612&w=0&k=20&c=R7s6RR849L57bv_c7jMIFRW4H87-FjLB8sqZ08mN0OU=',
+        name: 'Me and my broken',
+        artist: 'Rixton',
+        music: 'music/rixton-me-and-my-broken-heart_oLdfJLv7.mp3'
+    },
+    {
+        img: 'https://media.istockphoto.com/id/1175435360/vector/music-note-icon-vector-illustration.jpg?s=612x612&w=0&k=20&c=R7s6RR849L57bv_c7jMIFRW4H87-FjLB8sqZ08mN0OU=',
+        name: 'Empire',
+        artist: 'Sakira',
+        music: 'music/sakira-empire_p15cA4EB.mp3'
+    },
+    {
+        img: 'https://media.istockphoto.com/id/1175435360/vector/music-note-icon-vector-illustration.jpg?s=612x612&w=0&k=20&c=R7s6RR849L57bv_c7jMIFRW4H87-FjLB8sqZ08mN0OU=',
+        name: 'Son pol front back',
         artist: '',
-        music: 'music/Makeba Jain.mp3'
+        music: 'music/son-pol-front-back_N3tTGEWu.mp3'
     },
-    {
-        img: 'https://media.istockphoto.com/id/1175435360/vector/music-note-icon-vector-illustration.jpg?s=612x612&w=0&k=20&c=R7s6RR849L57bv_c7jMIFRW4H87-FjLB8sqZ08mN0OU=',
-        name: 'Hyat Mni Aladr',
-        artist: 'Murad Adaml',
-        music: 'music/Hyat Mni Aladr Gldrmr Niy.m4a'
-    },
-    {
-        img: 'https://media.istockphoto.com/id/1175435360/vector/music-note-icon-vector-illustration.jpg?s=612x612&w=0&k=20&c=R7s6RR849L57bv_c7jMIFRW4H87-FjLB8sqZ08mN0OU=',
-        name: 'Reza Malekzadeh Aram Aram',
-        artist: '',
-        music: 'music/Reza Malekzadeh Aram Aram.mp3'
-    },
-    {
-        img: 'https://media.istockphoto.com/id/1175435360/vector/music-note-icon-vector-illustration.jpg?s=612x612&w=0&k=20&c=R7s6RR849L57bv_c7jMIFRW4H87-FjLB8sqZ08mN0OU=',
-        name: 'Где ты теперь',
-        artist: 'Баста,HammAli,Navai',
-        music: 'music/Где ты теперь.mp3'
-    },
-    {
-        img: 'https://media.istockphoto.com/id/1175435360/vector/music-note-icon-vector-illustration.jpg?s=612x612&w=0&k=20&c=R7s6RR849L57bv_c7jMIFRW4H87-FjLB8sqZ08mN0OU=',
-        name: 'Где нас нет',
-        artist: 'Баста,Градусы',
-        music: 'music/Где нас нет.mp3'
-    },
-    {
-        img: 'https://media.istockphoto.com/id/1175435360/vector/music-note-icon-vector-illustration.jpg?s=612x612&w=0&k=20&c=R7s6RR849L57bv_c7jMIFRW4H87-FjLB8sqZ08mN0OU=',
-        name: 'Я по кличке Принц',
-        artist: 'Киракосян Бродяга',
-        music: 'music/Я по кличке Принц не хулиган.mp3'
-    }
 ];
 
 loadTrack(track_index);
